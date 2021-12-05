@@ -1,0 +1,2 @@
+# Time-Series-Forecasting---US-Personal-Consumption-Expenditures-
+The data is based on seasonally adjusted personal consumption expenditures in the United States. Personal consumption expenditures (PCEs) are a measure of imputed household spending during a certain time period. Personal consumption is the largest economic output generator, and it is a key indication of economic growth. The PCE makes the most significant contribution to the economy's Gross Domestic Product.
